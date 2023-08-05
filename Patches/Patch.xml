@@ -1,0 +1,11 @@
+<Operation Class="PatchOperationAdd">
+  <xpath>Defs/AlienRace.ThingDef_AlienRace[@ParentName="BasePawn"]</xpath>
+  <alienRace>
+    <raceRestriction>
+      <whiteApparelList>
+					<li>Apparel_Collar</li>
+					<li>Apparel_BodyStrap</li>
+      </whiteApparelList>
+    </raceRestriction>
+  </alienRace>
+</Operation>
